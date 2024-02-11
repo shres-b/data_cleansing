@@ -1,0 +1,6 @@
+string_column,integer_column,date_column,oldName1,oldName2
+Apple,10,2021-01-01,1,A
+,20,2021-02-01,2,B
+Banana,30,InvalidDate,3,C
+Orange,,2021-03-01,4,D
+Banana,30,2021-01-01,3,C
